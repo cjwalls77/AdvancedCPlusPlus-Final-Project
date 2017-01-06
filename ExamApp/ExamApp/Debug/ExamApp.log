@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  TFQuestion.cpp
+  StudentView.cpp
+  StudentController.cpp
+  Student.cpp
+  Question.cpp
+  ProfessorView.cpp
+  ProfessorController.cpp
+  MCOption.cpp
+  MCQuestion.cpp
+  LogOnView.cpp
+  LogOnController.cpp
+  IndexItem.cpp
+  GradedExam.cpp
+e:\projects\examapp\examapp\gradedexam.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  FileRepository.cpp
+  ExamApp.cpp
+  Exam.cpp
+  Config.cpp
+  AnswerKey.cpp
+  Answer.cpp
+  Generating Code...
+  ExamApp.vcxproj -> E:\Projects\ExamApp\Debug\ExamApp.exe
+  ExamApp.vcxproj -> E:\Projects\ExamApp\Debug\ExamApp.pdb (Full PDB)
